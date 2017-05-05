@@ -1,0 +1,4 @@
+/home/babat/ideas/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/babat/CLionProjects/OPENCV/boundary_box
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/babat/CLionProjects/OPENCV/boundary_box/cmake-build-debug
