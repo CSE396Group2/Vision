@@ -4,14 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/babat/CLionProjects/OPENCV/boundary_box/main.cpp" "/home/babat/CLionProjects/OPENCV/boundary_box/cmake-build-debug/CMakeFiles/boundary_box.dir/main.cpp.o"
+  "/home/hasan/Desktop/Vision/boundary_box_v2/Find.cpp" "/home/hasan/Desktop/Vision/boundary_box_v2/cmake-build-debug/CMakeFiles/boundary_box.dir/Find.cpp.o"
+  "/home/hasan/Desktop/Vision/boundary_box_v2/main.cpp" "/home/hasan/Desktop/Vision/boundary_box_v2/cmake-build-debug/CMakeFiles/boundary_box.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include/opencv"
   "/usr/local/include"
+  "/usr/local/include/opencv"
   )
 
 # Targets to which this target links.

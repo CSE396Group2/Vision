@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/boundary_box.dir/main.cpp.o"
+  "CMakeFiles/boundary_box.dir/Find.cpp.o"
   "boundary_box.pdb"
   "boundary_box"
 )

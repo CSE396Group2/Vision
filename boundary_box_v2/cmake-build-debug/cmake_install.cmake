@@ -1,4 +1,4 @@
-# Install script for directory: /home/babat/CLionProjects/OPENCV/boundary_box
+# Install script for directory: /home/hasan/Desktop/Vision/boundary_box_v2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/babat/CLionProjects/OPENCV/boundary_box/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hasan/Desktop/Vision/boundary_box_v2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

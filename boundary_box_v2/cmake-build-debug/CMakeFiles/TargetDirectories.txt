@@ -1,3 +1,3 @@
-/home/babat/CLionProjects/OPENCV/boundary_box/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/babat/CLionProjects/OPENCV/boundary_box/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/babat/CLionProjects/OPENCV/boundary_box/cmake-build-debug/CMakeFiles/boundary_box.dir
+/home/hasan/Desktop/Vision/boundary_box_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hasan/Desktop/Vision/boundary_box_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hasan/Desktop/Vision/boundary_box_v2/cmake-build-debug/CMakeFiles/boundary_box.dir
