@@ -17,7 +17,8 @@ using namespace cv;
 class Find {
 public:
     Find();
-    void run();
+    int calculateAngle (RotatedRect minRect);
+    int run();
 };
 
 
