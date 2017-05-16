@@ -130,6 +130,7 @@ CMakeFiles/boundary_box.dir/main.cpp.o: ../main.cpp
 CMakeFiles/boundary_box.dir/main.cpp.o: /usr/local/include/opencv/cv.h
 CMakeFiles/boundary_box.dir/main.cpp.o: /usr/local/include/opencv/cv.hpp
 CMakeFiles/boundary_box.dir/main.cpp.o: /usr/local/include/opencv/cxcore.h
+CMakeFiles/boundary_box.dir/main.cpp.o: /usr/local/include/opencv/highgui.h
 CMakeFiles/boundary_box.dir/main.cpp.o: /usr/local/include/opencv2/calib3d.hpp
 CMakeFiles/boundary_box.dir/main.cpp.o: /usr/local/include/opencv2/calib3d/calib3d_c.h
 CMakeFiles/boundary_box.dir/main.cpp.o: /usr/local/include/opencv2/core.hpp

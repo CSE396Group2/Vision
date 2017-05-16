@@ -131,6 +131,7 @@ CMakeFiles/boundary_box.dir/main.cpp.o
  /usr/local/include/opencv/cv.h
  /usr/local/include/opencv/cv.hpp
  /usr/local/include/opencv/cxcore.h
+ /usr/local/include/opencv/highgui.h
  /usr/local/include/opencv2/calib3d.hpp
  /usr/local/include/opencv2/calib3d/calib3d_c.h
  /usr/local/include/opencv2/core.hpp

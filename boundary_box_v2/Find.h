@@ -18,9 +18,11 @@ class Find {
 public:
     Find(){cap.open(0);};
     Find(int i){cap.open(i);};
-    int calculateAngle (RotatedRect minRect);
-    int run();
 
+    // Reads a frame and checks image
+    // If found stickman returns angle value
+    int run();
+    Mat live;
 private:
     VideoCapture cap;
 };
