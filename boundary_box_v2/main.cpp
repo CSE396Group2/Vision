@@ -4,5 +4,6 @@
 int main(int argc, char **argv)
 {
     Find f;
-    f.run();
+    while (1)
+        f.run();
 }

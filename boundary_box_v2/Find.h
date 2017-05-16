@@ -16,9 +16,13 @@ using namespace cv;
 
 class Find {
 public:
-    Find();
+    Find(){cap.open(0);};
+    Find(int i){cap.open(i);};
     int calculateAngle (RotatedRect minRect);
     int run();
+
+private:
+    VideoCapture cap;
 };
 
 
